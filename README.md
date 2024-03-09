@@ -27,7 +27,7 @@ Provide instructions on how to use the code to generate synthetic data. Include 
 Show an example of how to generate synthetic data using the provided code. Include sample input and output data.
 
 ## License
-Specify the license under which the code is released.
+This work is licensed under the Custom Collaborative License. Any modification or redistribution of this work requires explicit permission from all collaborators listed in the acknowledgments section of this README file. For inquiries about modifications or collaborations, please contact the project maintainers.
 
 ## Acknowledgments
 
