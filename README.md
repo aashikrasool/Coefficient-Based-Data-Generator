@@ -3,14 +3,9 @@
 ## Overview
 This project aims to generate synthetic data that closely resembles real-world data using Generative Adversarial Networks (GANs). In this implementation, we utilize a custom self-attention layer and introduce a correlation constraint to ensure that the generated data preserves the correlation structure of the real data.
 
-## Requirements
-- Python 3.x
-- TensorFlow
-- NumPy
-- Pandas
 
 ## Dataset
-Describe the dataset used for training the GAN. Include details such as the number of features, data format, and any preprocessing steps applied.
+In this work we utilized crop production recomendation data which is publically available in Kaggle[1].
 
 ## Implementation Details
 ### Synthetic Data Generation
@@ -39,4 +34,5 @@ Specify the license under which the code is released.
 Acknowledge any contributions, libraries, or datasets used in the project.
 
 ## References
-List any relevant papers, articles, or resources that inspired or contributed to the project.
+[1] https://www.kaggle.com/datasets/aksahaha/crop-recommendation
+
