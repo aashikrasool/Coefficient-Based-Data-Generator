@@ -30,7 +30,15 @@ Show an example of how to generate synthetic data using the provided code. Inclu
 Specify the license under which the code is released.
 
 ## Acknowledgments
-Acknowledge any contributions, libraries, or datasets used in the project.
+
+We would like to acknowledge the contributions of the following individuals from the Data Centric AI class:
+
+- M.J. Aashik Rasool
+- Abrar Alabdulwahab
+- Sevara Mardieva
+- Dong Seok Kim
+
+They implemented the approach described in this project.
 
 ## References
 [1] https://www.kaggle.com/datasets/aksahaha/crop-recommendation
