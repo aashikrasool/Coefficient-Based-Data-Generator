@@ -24,8 +24,8 @@ In this work we utilized crop production recomendation data which is publically 
 
 | Model          | CC compared to original data |
 |----------------|-----------------------------|
-| TabGAN\[KK1\]  | 0.631                       |
-| CTGAN\[JJ1\]   | 0.752                       |
+| TabGAN[2]      | 0.631                       |
+| CTGAN [3]      | 0.752                       |
 | Proposed model | **0.989**                   |
 
 **Comparative analysis of Correlation Coefficients (CC) relative to original data for proposed Model and existing State-of-the-Art tabular data generation Methods..**
