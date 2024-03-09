@@ -11,6 +11,7 @@ In this work we utilized crop production recomendation data which is publically 
 ### Synthetic Data Generation
 - **GAN Architecture**:
 - ![Archictecture](https://github.com/aashikrasool/Coefficient-Based-Data-Generator/blob/main/GAN%20arch.png)
+- Our framework introduces a multi-head attention layer within the generator. This innovation allows for a more nuanced discernment and emphasis on critical inter-feature relationships in tabular data, significantly improving the model's capability to capture and replicate complex data dynamics in the agricultural domain.
 
 
 ### Training
