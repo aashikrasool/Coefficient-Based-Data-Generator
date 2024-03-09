@@ -9,8 +9,9 @@ In this work we utilized crop production recomendation data which is publically 
 
 ## Implementation Details
 ### Synthetic Data Generation
-- **GAN Architecture**: Describe the architecture of the GAN model, including the generator, discriminator, and any custom layers used (e.g., self-attention).
-- **Correlation Constraint**: Explain how the correlation constraint is incorporated into the GAN training process to preserve the correlation structure of the real data.
+- **GAN Architecture**:
+- ![Archictecture](https://github.com/aashikrasool/Coefficient-Based-Data-Generator/blob/main/GAN%20arch.png)
+
 
 ### Training
 - **Data Splitting**: Explain how the real data is split into training and test sets.
