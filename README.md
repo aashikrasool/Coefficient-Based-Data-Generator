@@ -48,4 +48,5 @@ They implemented the approach described in this project.
 
 ## References
 [1] https://www.kaggle.com/datasets/aksahaha/crop-recommendation
-
+[2] Park, Noseong, et al. "Data synthesis based on generative adversarial networks." arXiv preprint arXiv:1806.03384 (2018).
+[3] Xu, Lei, et al. "Modeling tabular data using conditional gan." Advances in neural information processing systems 32 (2019).
