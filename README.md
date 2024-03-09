@@ -20,11 +20,7 @@ In this work we utilized crop production recomendation data which is publically 
 - Though the labels 'pH' and 'Temperature' show almost 95% probability distribution, the number of each label is dramatically various. Moreover, it is the limitation of tabular GANs that they are not able to generate a specific amount of data. Nevertheless, our proposed approach performs better in producing evenly distributed data that closely resembles the original data in all columns with a likeness of 98%, except for the 'P' (Phosphorus) column, where the synthetic data shows a more rapid increase initially, suggesting a higher density of lower values compared to real data .
 - ![ResultAnalysis](https://github.com/aashikrasool/Coefficient-Based-Data-Generator/blob/main/performance.png)
 
-## Usage
-Provide instructions on how to use the code to generate synthetic data. Include code snippets or commands for running the training script and generating synthetic data.
 
-## Example
-Show an example of how to generate synthetic data using the provided code. Include sample input and output data.
 
 ## License
 This work is licensed under the Custom Collaborative License. Any modification or redistribution of this work requires explicit permission from all collaborators listed in the acknowledgments section of this README file. For inquiries about modifications or collaborations, please contact the project maintainers.
