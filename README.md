@@ -1,4 +1,4 @@
-# Synthetic Data Generation using GANs with Self-Attention and Correlation Constraint
+# Attention Based Conditional GAN for Synthetic Crop Data: Solving Agriculture’s Data Availability and Quality Challenges
 
 ## Overview
 This project aims to generate synthetic data that closely resembles real-world data using Generative Adversarial Networks (GANs). In this implementation, we utilize a custom self-attention layer and introduce a correlation constraint to ensure that the generated data preserves the correlation structure of the real data.
