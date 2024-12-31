@@ -33,7 +33,7 @@ In this work we utilized crop production recomendation data which is publically 
 </div>
 
 ## License
-This work is licensed under the Custom Collaborative License. Any modification or redistribution of this work requires explicit permission from all collaborators listed in the acknowledgments section of this README file. For inquiries about modifications or collaborations, please contact the project maintainers.
+This work is licensed under the Custom Collaborative License. Any modification or redistribution of this work requires explicit permission from all collaborators listed in the acknowledgments section of this README file. For inquiries about modifications or collaborations, please contact the project maintainers.Also you can find 
 
 ## Acknowledgments
 
@@ -45,7 +45,7 @@ We would like to acknowledge the contributions of the following individuals from
 - Dong Seok Kim
 
 They implemented the approach described in this project.
-
+- [Link to paper](https://engrxiv.org/preprint/view/4257)
 ## References
 [1] https://www.kaggle.com/datasets/aksahaha/crop-recommendation.
 
