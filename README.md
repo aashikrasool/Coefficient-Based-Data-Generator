@@ -38,10 +38,14 @@ This work is licensed under the Custom Collaborative License. Any modification o
 Acknowledgments
 We would like to acknowledge the contributions of the following individuals from the Data Centric AI class:
 
-M.J. Aashik Rasool
-Abrar Alabdulwahab
-Sevara Mardieva
-Dong Seok Kim
+-M.J. Aashik Rasool
+
+-Abrar Alabdulwahab
+
+-Sevara Mardieva
+
+-Dong Seok Kim
+
 Additionally, we cite the following work that has informed and inspired aspects of this project:
 Rasool, M. A., Alabdulwahab, A., Mardieva, S., & Kim, D. S. "ATTENTION BASED CONDITIONAL GAN FOR SYNTHETIC CROP DATA: SOLVING AGRICULTURE’S DATA AVAILABILITY AND QUALITY CHALLENGES."
 They implemented the approach described in this project.
