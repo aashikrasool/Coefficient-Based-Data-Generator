@@ -35,15 +35,15 @@ In this work we utilized crop production recomendation data which is publically 
 ## License
 This work is licensed under the Custom Collaborative License. Any modification or redistribution of this work requires explicit permission from all collaborators listed in the acknowledgments section of this README file. For inquiries about modifications or collaborations, please contact the project maintainers.Also you can find 
 
-## Acknowledgments
-
+Acknowledgments
 We would like to acknowledge the contributions of the following individuals from the Data Centric AI class:
 
-- M.J. Aashik Rasool
-- Abrar Alabdulwahab
-- Sevara Mardieva
-- Dong Seok Kim
-
+M.J. Aashik Rasool
+Abrar Alabdulwahab
+Sevara Mardieva
+Dong Seok Kim
+Additionally, we cite the following work that has informed and inspired aspects of this project:
+Rasool, M. A., Alabdulwahab, A., Mardieva, S., & Kim, D. S. "ATTENTION BASED CONDITIONAL GAN FOR SYNTHETIC CROP DATA: SOLVING AGRICULTURE’S DATA AVAILABILITY AND QUALITY CHALLENGES."
 They implemented the approach described in this project.
 - [Link to paper](https://engrxiv.org/preprint/view/4257)
 ## References
